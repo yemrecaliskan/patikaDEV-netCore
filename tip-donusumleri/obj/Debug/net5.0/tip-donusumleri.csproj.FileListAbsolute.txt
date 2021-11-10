@@ -1,0 +1,16 @@
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
