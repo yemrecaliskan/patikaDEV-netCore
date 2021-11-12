@@ -1,0 +1,16 @@
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.exe
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.deps.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.runtimeconfig.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.runtimeconfig.dev.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\ref\metotlar-overloading.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\bin\Debug\net5.0\metotlar-overloading.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.csproj.AssemblyReference.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.AssemblyInfoInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.AssemblyInfo.cs
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\ref\metotlar-overloading.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\metotlar-overloading\obj\Debug\net5.0\metotlar-overloading.genruntimeconfig.cache
