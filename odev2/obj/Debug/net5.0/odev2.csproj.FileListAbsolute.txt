@@ -1,0 +1,16 @@
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.exe
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.deps.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.runtimeconfig.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.runtimeconfig.dev.json
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\ref\odev2.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\bin\Debug\net5.0\odev2.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.csproj.AssemblyReference.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.AssemblyInfoInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.AssemblyInfo.cs
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.csproj.CoreCompileInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\ref\odev2.dll
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.pdb
+C:\Users\emrec\Desktop\çalışmalar\netcore\odev2\obj\Debug\net5.0\odev2.genruntimeconfig.cache
